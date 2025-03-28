@@ -1,1 +1,1 @@
-# blackjack-pygame
+Blackjack in Python using PyGame library
