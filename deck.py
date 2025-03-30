@@ -1,5 +1,5 @@
 import card
-
+import random
 
 def _create_deck():
     deck = list()
@@ -10,9 +10,9 @@ def _create_deck():
 
     return deck
 
-
 class Deck:
     def __init__(self):
         self.deck = _create_deck()
+        random.shuffle(self.deck)
 
 
