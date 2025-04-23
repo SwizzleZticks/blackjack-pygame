@@ -8,3 +8,4 @@ Next steps in developement:
 4. add doubling
 5. clearing and adding bets
 6. start using pygame and drawing objects
+7. create a hand class to separate player and player hand logics
